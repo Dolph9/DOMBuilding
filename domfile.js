@@ -1,4 +1,5 @@
-// HI JS :)
+// First attempt
+//Finished JS file: /jsfile.js
 
 const search = document.getElementById('search');
 const matchList = document.getElementById('match-list');
